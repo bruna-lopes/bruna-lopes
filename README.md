@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![](https://img.shields.io/badge/LinkedIn-BrunaLopes-blue)](https://www.linkedin.com/in/bruna-lopes-311977123)
-[![](https://img.shields.io/badge/Gmail-BrunaLopes-red)](mailto:brunalopesinf@gmail.com)
+[![](https://img.shields.io/badge/Mail-BrunaLopes-blue)](mailto:bruna-lopess@outlook.com)
 
 <div align="center">
 
