@@ -8,7 +8,6 @@
 </div>
 <br/>
 
-![Bruna Lopes dos Santos](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bruna-lopes&hide=Batchfile)
 ![Bruna Lopes dos Santos](https://github-readme-stats.vercel.app/api?username=bruna-lopes&count_private=true)
 
 <br />
